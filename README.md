@@ -22,6 +22,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,cs,dotnet,postman&perline=8" />
   </a>
+    <br>
   Otros: Sql Server, Mysql, EntityFrameworkCore, Dapper, LinQ, Automapper, APIRestFul, JWT, 
 </p>
 <br>
