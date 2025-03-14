@@ -8,9 +8,10 @@
 
 <h2>Sobre mi</h2>
 <p align="left">
-🎓 Estudiante de la Tecnicatura Universitaria en Programación <br><br>
+    Desarrolador fullstack con .NET y Angular, Recibido de la Tecnicatura Universitaria en Programacion<br><br>
 <em>
-    Me encuentro cursando una sola materia para recibirme de la Tecnicatura. Soy una persona que le gusta estudiar de forma autodidacta ademas de la facultad, mientras estuve con la tecnicatura estuve aprendiendo todo lo que es el ecosistema de .NET.En mi GitHub subo todos los proyectos que voy haciendo, de los cuales siempre aprendo a hacer algo nuevo y seguir expandiendo mis conocimientos.
+    Mis principales herramientas son .NET y Angular, y disfruto trabajando en equipo, comunicándome y colaborando para construir soluciones eficientes. En mi proyecto final de la facultad, trabajé junto a un equipo de seis personas, fortaleciendo estas habilidades en un entorno de desarrollo real. <br>
+    Actualmente, estoy enfocado en seguir creciendo profesionalmente dentro del desarrollo de software, realizando proyectos desafiantes y aplicando las mejores prácticas. Estoy abierto a nuevas oportunidades y listo para integrarme en equipos de desarrollo.
   </em> 
 
 📫 Contacto: **ivanturano17@gmail.com**
